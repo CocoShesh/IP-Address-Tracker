@@ -55,7 +55,7 @@ const UserInput = () => {
             <input
               type="search"
               placeholder="Search for any IP address or domain"
-              className="w-[400px] h-[50px] rounded-l-xl p-5 text-black mt-5 outline-none max-lg:w-full"
+              className="lg:w-[400px] h-[50px] rounded-l-xl p-5 text-black mt-5 outline-none max-lg:w-full"
               value={userInput}
               onChange={e => setUserInput(e.target.value)}
               onKeyPress={e =>
