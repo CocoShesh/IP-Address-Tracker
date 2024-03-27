@@ -79,7 +79,7 @@ const UserInput = () => {
                 {ipAddress.ip}
               </p>
             </section>
-            <section className="flex flex-col lg:pl-5 w-full h-full max-lg:items-center max-lg:mt-2">
+            <section className="flex flex-col lg:pl-5 w-full h-full max-lg:items-center max-lg:mt-2 text-center">
               <h2 className="text-[#949494] text-sm font-bold">LOCATION</h2>
               <p className="text-2xl mt-3 font-semibold max-lg:mt-1">
                 {ipAddress.location.city}, {ipAddress.location.country}
