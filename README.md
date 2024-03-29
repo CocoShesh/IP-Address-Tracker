@@ -1,8 +1,23 @@
-# React + Vite
+# Frontend Mentor - IP Address Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)
 
-Currently, two official plugins are available:
+## Welcome! 👋
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Example of IP Address Tracker](./example-image.jpg)
+
+## Features
+
+- Responsive design for various screen sizes
+- Interactive hover states for elements
+- Displays user's own IP address on the map upon initial load
+- Allows users to search for any IP address or domain to view key information and location
+
+
+## Technologies Used
+
+- Visual Studio Code
+- ReactJS
+- Tailwind CSS
+- IP Geolocation API by IPify
+- LeafletJS
