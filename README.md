@@ -1,10 +1,10 @@
 # Frontend Mentor - IP Address Tracker
 
-![Design preview for the IP address tracker coding challenge](./design/desktop-preview.jpg)
+![image](https://github.com/CocoShesh/IP-Address-Tracker/assets/110368170/79ac5a67-cb37-49f9-91ea-4c49c9ac5e50)
+
 
 ## Welcome! 👋
 
-![Example of IP Address Tracker](./example-image.jpg)
 
 ## Features
 
